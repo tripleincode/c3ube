@@ -1,1 +1,1 @@
-depends on raylib. showcase for camas codes
+depends on raylib. showcase thing for camas codes.

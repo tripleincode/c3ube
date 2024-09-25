@@ -1,3 +1,3 @@
 
 all:
-	gcc -Wall -o out main.c -lraylib
+	gcc -g -Wall -Wextra -o out main.c -lraylib -lm
